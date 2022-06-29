@@ -15,5 +15,5 @@ for i in range(n) :
                 
             }
     student.append(app) ; 
-print(len[student]) ;
+print(len(student))
 print(student) ;
